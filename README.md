@@ -2,7 +2,7 @@
 
 A modern, responsive Todo List application with a beautiful dashboard and smooth animations. Built with HTML, CSS, and JavaScript.
 
-![Todo List Dashboard](https://i.imgur.com/example.png)
+![Todo List Dashboard](https://i.postimg.cc/446sCwCh/Screenshot-2025-06-12-185604.png)
 
 ## Features
 
